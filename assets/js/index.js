@@ -1,7 +1,7 @@
 var nameArray = [
   "Nico",
   "Dima",
-  "Patric",
+  "Patrick",
   "Andrii",
   "Lindi",
   "Joni",
