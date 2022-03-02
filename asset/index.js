@@ -6,7 +6,7 @@ var nameArray = [
   "Lindi",
   "Joni",
   "Alessia",
-  "Celian",
+  "Celian Eduard Charles",
   "Zahra",
   "David",
   "Anna",
