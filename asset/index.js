@@ -5,11 +5,11 @@ var nameArray = [
   "Andrii",
   "Lindi",
   "Joni",
-  "Alessia",
+  "Camille",
   "Celian Eduard Charles",
   "Zahra",
   "David",
-  "Anna",
+  "Renata",
 ];
 
 $("#pick").click(function () {
