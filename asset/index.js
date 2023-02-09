@@ -9,6 +9,14 @@ var nameArray = [
   "Zahra",
   "David",
   "Renata",
+  "Andrijana",
+  "Oleg",
+  "Shubham",
+  "Anna",
+  "Juan",
+  "Wojciech",
+  "Mati",
+  "Akber",
 ];
 
 $("#pick").click(function () {
