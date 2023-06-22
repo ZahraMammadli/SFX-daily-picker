@@ -1,13 +1,7 @@
 var nameArray = [
   "Nico",
-  "Dima",
-  "Patrick",
-  "Andrii", 
-  "Joni",
   "Camille",
-  "Celian Eduard Charles",
   "Zahra",
-  "David",
   "Renata",
   "Andrijana",
   "Oleg",
@@ -15,7 +9,6 @@ var nameArray = [
   "Anna",
   "Juan",
   "Wojciech",
-  "Mati",
   "Akber",
 ];
 
